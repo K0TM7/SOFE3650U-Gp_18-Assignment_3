@@ -12,9 +12,9 @@
 ...
 
 ### Disadvantages: 
-
-...
-
+* Dependency inversion provokes customers that interest design subtleties to be provided by development code.
+* Dependency inversion can make code hard to follow (read) since it isolates conduct from development.
+* It requires more upfront development effort.
 
 ## **Subject/Object Pattern**
 
