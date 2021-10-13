@@ -1,1 +1,2 @@
 In this exercise we modified the code so that an observer pattern can then be implemented. This helped us make the display and ticket printer components observers to the cash register as before it was different. This makes the system more easier and helps the interface be much more interactive. This then gives the user a chance to see the products name and price.
+![image](https://user-images.githubusercontent.com/72389295/137065527-e58d2138-6e93-48cc-9a59-977c9995c318.png)
