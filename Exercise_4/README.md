@@ -9,7 +9,10 @@
 
 ### Advantages: 
 
-...
+* Code may easily alter a given implementation by depending on abstractions instead of implementations.
+* Classes are more explicitly defined, with open declarations of their requirements. Constructors are less messy and logic-heavy. Furthermore, code is more understandable is easier to maintain.
+* Complex, strongly connected classes are more difficult to repair than simple classes. Code gets tested more frequently due to very simple unit tests and more testing indicates a better level of quality.
+
 
 ### Disadvantages: 
 * Dependency inversion provokes customers that interest design subtleties to be provided by development code.
