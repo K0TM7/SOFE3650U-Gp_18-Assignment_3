@@ -1,1 +1,1 @@
-
+for exercise two we created an interface that actually visually can be seen. we named this class the display product. this would help further the understanding of what the user was seeing and the customer can reassure themselves as to how much and what they are buying. this was done by using interfaces to further invrert the independency between the model and view. doing so we needed to make alterations within the cash regesiter.
